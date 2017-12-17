@@ -9,7 +9,7 @@ This System has the following Haar Cascades:
 3) Haar Cascade for Two-Wheeler Detection
 4) Haar Cascade for Pedestrian Detection
 
-Out of the above the Haar Cascade for Car Detection was used from: https://github.com/andrewssobral/vehicle_detection_haarcascades/blob/master/cars.xml
+
 
 The Results of the system are as shown below:
 
@@ -54,5 +54,11 @@ Double Clicking on any of the python scripts will run the program.(or even right
 
 
 To Create Your Own Haar Cascade Refer This: https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjE89XbrJDYAhWMp48KHXXnDWsQFggrMAA&url=https%3A%2F%2Fwww.cs.auckland.ac.nz%2F~m.rezaei%2FTutorials%2FCreating_a_Cascade_of_Haar-Like_Classifiers_Step_by_Step.pdf&usg=AOvVaw0BAeKbBkefnCykzazRxCol
+
+Credits:
+
+The Haar Cascade for Car Detection was used from: https://github.com/andrewssobral/vehicle_detection_haarcascades/blob/master/cars.xml
+
+The Haar Cascade for pedestrian detection was developed by: "Hannes Kruppa and Bernt Schiele, ETH Zurich, Switzerland"
 
 

@@ -13,4 +13,17 @@ Out of the above the Haar Cascade for Car Detection was used from: https://githu
 
 The Results of the system are as shown below:
 
+###Car
+![car](https://user-images.githubusercontent.com/19201530/34076958-a52a5908-e31b-11e7-8350-38e583a13374.PNG)
+
+###Bus
+![bus](https://user-images.githubusercontent.com/19201530/34076957-a4e07644-e31b-11e7-8c89-f7b208d42782.PNG)
+
+###Pedestrian
+![pedestrian](https://user-images.githubusercontent.com/19201530/34076959-a5720d52-e31b-11e7-8842-e25c4a3b9553.PNG)
+
+###Two Wheeler
+![two wheeler](https://user-images.githubusercontent.com/19201530/34076961-a5ba531e-e31b-11e7-97f9-063c5e282bfd.PNG)
+
+
 

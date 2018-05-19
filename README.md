@@ -25,19 +25,18 @@ The Results of the system are as shown below:
 
 <b>Steps To Run The Project</b>
 
-System Requirements to Run the Vehicle Detection Project.
+System Requirements:
 ____________________________________________________________________________________________________________________
 1) Python 3.6 Or above
 2) Opencv-python -> Python 3.4+ comes with an easy installation tool called pip to install additional packages. (package manager) 
-     So to Install opencv-python open the cmd in administrator mode and then type->    pip install opencv-python 
-     Also numpy may be required so also type->    pip install numpy
+      
+     
 Successfull installation of above packages may be checked by moving into python shell and typing "import cv2"
 If nothing shows up then installation was successful.
-	 
-So now all the software requirements are satisified.
+.
 We had used python 3.6.1 but any version higher than 3.6.1 will also do.
 
-**** THE PROJECT WON'T RUN ON VERSIONS OF PYTHON BELOW PYTHON 3.X     
+
 _______________________________________________________________________________________________________________________________
 
 
@@ -48,10 +47,12 @@ The Project Folders have 4 sub folders
 4)Pedestrian 
 
 In each of the subfolder there will be two videos ,one haarcascade ,two python scripts (one for each of the videos).
-(only pedestrian detection has one video rest all have 2 viddeos)	 
+Due to file size constraint I wasnt able to upload all the videos.
+Please raise a pull requestbif you need the vide and I'll send itnto you ASAP.
+	 
 
-Double Clicking on any of the python scripts will run the program.(or even right click _>Open in idle and run will also do)
 
 
-To Create Your Own Haar Cascade Refer This: https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjE89XbrJDYAhWMp48KHXXnDWsQFggrMAA&url=https%3A%2F%2Fwww.cs.auckland.ac.nz%2F~m.rezaei%2FTutorials%2FCreating_a_Cascade_of_Haar-Like_Classifiers_Step_by_Step.pdf&usg=AOvVaw0BAeKbBkefnCykzazRxCol
+If you want to create your own Haar Cascade refer this awesome tutorial:
+ https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjE89XbrJDYAhWMp48KHXXnDWsQFggrMAA&url=https%3A%2F%2Fwww.cs.auckland.ac.nz%2F~m.rezaei%2FTutorials%2FCreating_a_Cascade_of_Haar-Like_Classifiers_Step_by_Step.pdf&usg=AOvVaw0BAeKbBkefnCykzazRxCol
 

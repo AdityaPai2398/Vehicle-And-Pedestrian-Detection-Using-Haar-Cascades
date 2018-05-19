@@ -41,14 +41,19 @@ ________________________________________________________________________________
 
 
 The Project Folders have 4 sub folders
+
 1)Car 
+
 2)Two Wheeler
+
 3)Bus
+
 4)Pedestrian 
 
 In each of the subfolder there will be two videos ,one haarcascade ,two python scripts (one for each of the videos).
-Due to file size constraint I wasnt able to upload all the videos.
-Please raise a pull requestbif you need the vide and I'll send itnto you ASAP.
+
+Due to file size constraint I wasn't able to upload all the videos.
+Please raise an issue if you need the videos and I'll send it ASAP.
 	 
 
 

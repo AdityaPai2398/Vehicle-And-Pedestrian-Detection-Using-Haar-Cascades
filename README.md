@@ -61,8 +61,4 @@ Please raise an issue if you need the videos and I'll send it ASAP.
 
 
 
-If you want to create your own Haar Cascade refer this awesome tutorial:
- https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjE89XbrJDYAhWMp48KHXXnDWsQFggrMAA&url=https%3A%2F%2Fwww.cs.auckland.ac.nz%2F~m.rezaei%2FTutorials%2FCreating_a_Cascade_of_Haar-Like_Classifiers_Step_by_Step.pdf&usg=AOvVaw0BAeKbBkefnCykzazRxCol
-
-
 Please Cite the following paper : http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8447818&isnumber=8447533

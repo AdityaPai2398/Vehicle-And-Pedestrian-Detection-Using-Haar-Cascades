@@ -8,13 +8,13 @@ print('By Aditya Yogish Pai and Aditya Baliga B')
 video_src = 'pedestrians.avi'
 
 cap = cv2.VideoCapture(video_src)
-fgbg = cv2.createBackgroundSubtractorMOG2()
+
 bike_cascade = cv2.CascadeClassifier('pedestrian.xml')
 
 while True:
     ret, img = cap.read()
 	
-    fgbg.apply(img)
+    
     if (type(img) == type(None)):
         break
     

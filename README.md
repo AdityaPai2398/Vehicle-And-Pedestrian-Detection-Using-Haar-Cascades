@@ -3,7 +3,7 @@
 
 FULL TUTORIAL TO CREATE YOUR OWN HAAR CASCADE: https://www.youtube.com/watch?v=ydSXgBZ1ybk
 
-UPDATE [7-12-2018] I've also built an UI for it in Tkinter : https://github.com/AdityaPai2398/UI-For-Vehicle-and-Pedestrian-Detection-/tree/master/Vehicle%20and%20pedestrain%20detection
+UPDATE [7-12-2018] I've also built an UI for it in Tkinter: https://github.com/AdityaPai2398/UI-For-Vehicle-and-Pedestrian-Detection-/tree/master/Vehicle%20and%20pedestrain%20detection
 
 
 Computer Vision Plays a vital role in traffic management and surveillance systems and has been an active research area in the past years. In systems like these, the detection of vehicles and also classification of the vehicle plays a major role. The datasets are traffic videos of urban environment taken from various cities around the world which were used to train the classifier hence generating a robust classifier. The proposed approach is computationally less expensive with faster processing speed. The experiments on-road prove it to be a robust and real time algorithm which is highly competitive with the existing architecture.

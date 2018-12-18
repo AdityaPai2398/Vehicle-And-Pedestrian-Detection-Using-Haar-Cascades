@@ -10,12 +10,12 @@ video_src = 'bus1.mp4'
 
 
 cap = cv2.VideoCapture(video_src)
-fgbg=cv2.createBackgroundSubtractorMOG2()
+
 car_cascade = cv2.CascadeClassifier(cascade_src)
 
 while True:
     ret, img = cap.read()
-    fgmask=fgbg.apply(img)
+    
     if (type(img) == type(None)):
         break
     

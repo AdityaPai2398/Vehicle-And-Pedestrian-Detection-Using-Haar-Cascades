@@ -10,13 +10,13 @@ cascade_src = 'cars.xml'
 video_src = 'video1.avi'
 
 cap = cv2.VideoCapture(video_src)
-fgbg = cv2.createBackgroundSubtractorMOG2()
+
 car_cascade = cv2.CascadeClassifier(cascade_src)
 
 
 while True:
     ret, img = cap.read()
-    fgbg.apply(img)
+    
     if (type(img) == type(None)):
         break
     

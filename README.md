@@ -1,5 +1,5 @@
 # Vehicle-And-Pedestrian-Detection-Using-Haar-Cascades
-<h1>Real Time Detection and Classification of Vehicles and Pedestrians Using Haar Cascade Classifier with Background Subtraction</h1>
+<h1>Real Time Detection and Classification of Vehicles and Pedestrians Using Haar Cascade Classifier </h1>
 
 FULL TUTORIAL TO CREATE YOUR OWN HAAR CASCADE: https://www.youtube.com/watch?v=ydSXgBZ1ybk
 

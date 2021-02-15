@@ -28,5 +28,7 @@ while True:
     
     if cv2.waitKey(33) == 27:
         break
+	
+video_src.release()
 
 cv2.destroyAllWindows()
